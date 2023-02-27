@@ -3,6 +3,11 @@
   <h1>BIENVENIDOS AL EJERCICIO DE LARAVEL</h1>
   <hr>
   </div>
+  <div>
+     <div class="wave"></div>
+     <div class="wave"></div>
+     <div class="wave"></div>
+  </div>
 </template>
 
 <script setup></script>
@@ -12,6 +17,7 @@ h1{
   text-align: center;
 }
 div{
-  background-color: rgba(0, 255, 136, 0.308);
+ 
+  color: aliceblue;
 }
 </style>
