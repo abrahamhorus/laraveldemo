@@ -1,3 +1,60 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+.materia1
+{
+    position:relative;
+    display: inline-block;
+    margin-inline: 5%;
+    background-color: rgba(240, 248, 255, 0.603);
+    color: black;
+    width: 20%;
+    text-align: center;
+    box-shadow: 0 0 20px blue;
+    border-radius: 25px;
+   left: 0%;
+    height: 100%;
+}
+.materia2
+{
+    position:relative;
+    display: inline-block;
+    margin-inline: 5%;
+    background-color: rgba(240, 248, 255, 0.603);
+    color: black;
+    width: 20%;
+    text-align: center;
+    box-shadow: 0 0 20px blue;
+    border-radius: 25px;
+    
+    height: 100%;
+}
+
+.materia3
+{
+    position:relative;
+    display: inline-block;
+    margin-inline: 5%;
+    background-color: rgba(240, 248, 255, 0.603);
+    color: black;
+    width: 20%;
+    text-align: center;
+    box-shadow: 0 0 20px blue;
+    border-radius: 25px;
+    
+    height: 100%;
+}
+
+button
+{
+    background-color: rgb(49, 173, 69);
+    border-radius: 10px;
+    width: 50%;
+}
+
